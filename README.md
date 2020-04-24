@@ -1,6 +1,8 @@
 HTTPS Authorized Certs
 ======================
 
+https://engineering.circle.com/https-authorized-certs-with-node-js-315e548354a2
+
 Typically, HTTPS servers do a basic TLS handshake and accept any client connection as 
 long as a compatible cipher suite can be found. However, the server can be configured 
 to send the client a CertificateRequest during the TLS handshake which requires the
